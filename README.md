@@ -9,5 +9,10 @@ With the ProgressMeter library, you can easily integrate a progress bar into the
 ![ProgressMeter](./rvt2023/progressmeter.gif)
 
 ## ProgressMeter in Revit 2024
+**Light Theme**
+
 ![ProgressMeter](./rvt2024/progressmeterlight.gif)
-![ProgressMeter](./rvt2024/ProgressMeter_Dark.png)
+
+**Dark Theme**
+
+![ProgressMeter](./rvt2024/progressmeterdark.gif)
