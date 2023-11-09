@@ -5,12 +5,6 @@ It has methods similar to the AutoCAD ProgressMeter class such as: **Start()**, 
 
 With the ProgressMeter library, you can easily integrate a progress bar into the Revit interface to keep the user informed about an ongoing process. Below, you'll find some examples of what this progress bar looks like in action.
 
-You can reference the DLL in a Visual Studio project the same way you load any external library. The DLL files corresponding to each version of Revit are as follows:
-
-- [ProgressMeter for Revit 2023](./rvt2023/SCADtools.Revit.UI.ProgressMeter.dll)
-
-- [ProgressMeter for Revit 2024](./rvt2024/SCADtools.Revit.UI.ProgressMeter.dll)
-
 ## ProgressMeter in Revit 2023
 ![ProgressMeter](./rvt2023/progressmeter.gif)
 
@@ -23,7 +17,17 @@ You can reference the DLL in a Visual Studio project the same way you load any e
 
 ![ProgressMeter](./rvt2024/progressmeterdark.gif)
 
-## Code example
+## :floppy_disk: Download
+You can reference the DLL in a Visual Studio project the same way you load any external library.
+| Version                      | DLL File                                                                                |
+|:-----------------------------|:----------------------------------------------------------------------------------------|
+| Revit 2023                   | [ProgressMeter for Revit 2023](./rvt2023/SCADtools.Revit.UI.ProgressMeter.dll?raw=true) |
+| Revit 2024                   | [ProgressMeter for Revit 2024](./rvt2024/SCADtools.Revit.UI.ProgressMeter.dll?raw=true) |
+
+## :rocket: Making
+- The DLL files are made using [**Visual Studio**](https://github.com/microsoft) 2022.
+
+## :keyboard: Code example
 ```c#
 using System.Collections.Generic;
 using Autodesk.Revit.Attributes;
