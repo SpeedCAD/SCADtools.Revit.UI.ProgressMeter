@@ -21,8 +21,8 @@ With the ProgressMeter library, you can easily integrate a progress bar into the
 You can reference the DLL in a Visual Studio project the same way you load any external library.
 | Version                      | DLL File                                                                                |
 |:-----------------------------|:----------------------------------------------------------------------------------------|
-| Revit 2023                   | [ProgressMeter for Revit 2023](./rvt2023/SCADtools.Revit.UI.ProgressMeter.dll?raw=true) |
-| Revit 2024                   | [ProgressMeter for Revit 2024](./rvt2024/SCADtools.Revit.UI.ProgressMeter.dll?raw=true) |
+| Revit 2023                   | [ProgressMeter for Revit 2023](https://github.com/SpeedCAD/SCADtools.Revit.UI.ProgressMeter/releases/download/v1.0.0/SCADtools.Revit.UI.ProgressMeter_1.0.0_rvt2023.zip) |
+| Revit 2024                   | [ProgressMeter for Revit 2024](https://github.com/SpeedCAD/SCADtools.Revit.UI.ProgressMeter/releases/download/v1.0.0/SCADtools.Revit.UI.ProgressMeter_1.0.0_rvt2024.zip) |
 
 ## :rocket: Making
 - The DLL files are made using [**Visual Studio**](https://github.com/microsoft) 2022.
