@@ -8,7 +8,7 @@ With the ProgressMeter library, you can easily integrate a progress bar into the
 ## ProgressMeter in Revit 2023
 ![ProgressMeter](./rvt2023/progressmeter.gif)
 
-## ProgressMeter in Revit 2024
+## ProgressMeter in Revit 2024 and Revit 2025
 **Light Theme**
 
 ![ProgressMeter](./rvt2024/progressmeterlight.gif)
